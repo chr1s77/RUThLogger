@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:21:5-40
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:20:11-69
+uses-sdk
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:25:5-26:40
+	android:targetSdkVersion
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:26:9-38
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:25:15-41
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:35:5-78
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:35:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:36:22-78
+application
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:38:5-48:19
+	android:label
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:38:18-50
+	android:icon
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:40:9-56
+activity#edu.utexas.mpc.RUThLogger.DeviceScanActivity
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:41:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /Users/christinejulien/StudioProjects/RUThLogger/app/src/main/AndroidManifest.xml:45:27-74

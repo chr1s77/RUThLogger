@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/christinejulien/StudioProjects/RUThLogger/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/christinejulien/StudioProjects/RUThLogger/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/christinejulien/StudioProjects/RUThLogger/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/christinejulien/StudioProjects/RUThLogger/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/christinejulien/StudioProjects/RUThLogger/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/christinejulien/StudioProjects/RUThLogger/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    }
+]
